@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #FC8EAC;
+    height: 100%;
+    padding: 15px;
+    color: #191970;
+    overflow: scroll;
+    max-width: 900px;
+    text-align: center;
+}
+
+.line-container {
+    border-color: #191970;
+    ;
+    border-style: solid;
+    border-width: 4px;
+}
+
+.bor1 {
+    border-left: none;
+    border-top: none;
+    border-right: 2px;
+}
+
+.bor2 {
+    border-right: none;
+    border-top: none;
+}
+
+.bor3 {
+    border-left: none;
+    border-right: 2px;
+}
+
+.bord4 {
+    border-right: none;
+}
+
+.bor5 {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.pr {
+    width: 20%;
+}
+
+.profile-container {
+    width: 80px;
+    height: 80px;
+    border: 4px solid #191970;
+    border-radius: 40px;
+}
+
+.icon {
+    padding: 18px;
+    font-size: 35px;
+}
+
+
+.name-container {
+    width: 200px
+}
+
+.name {
+    font-size: 30px;
+}
+
+.address-container {
+    width: 400px;
+    padding-left: 10px;
+}
+
+.hr-rule {
+    border-width: 4px;
+    border-color: #191970;
+    width: 90%;
+    margin-right: 25px;
+
+}
+
+
+
+.wt {
+    width: 30%;
+}
+
+.addres {
+    font-size: 15px;
+}
+
+.list1 {
+    padding-left: 105px;
+}
+
+.list2 {
+    padding-left: 40px;
+}
+
+.list3 {
+    padding-left: 66px;
+}
+
+.list4 {
+    padding-left: 32px;
+}
+
+.list5 {
+    padding-left: 70px;
+}
+
+.skill-awrd {
+    font-size: 13px;
+    padding: 5px;
+}
+
+.interest-bg {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    padding-left: 13px;
+    padding-top: 15px;
+    padding-right: 35px;
+    background-color: #191970;
+}
+
+.icon2 {
+    font-size: 42px;
+    color: #FC8EAC;
+    ;
+}
+
+.int-2 {
+    padding: 10px;
+}
+
+.mar {
+    margin-left: 90px;
+}
+
+.font-bold {
+    font-weight: 500;
+}
